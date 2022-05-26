@@ -1,0 +1,23 @@
+body {
+    background: azure;
+    font-family: arial;
+}
+.link {
+    border: silver solid 1px;
+}
+.head {
+    border: silver solid 1px;
+    text-align: center;
+}
+.body {
+    border: silver solid 1px;
+}
+.center {
+    text-align: center;
+}
+.text-tag {
+    color: red;
+}
+.background-tag {
+    color: red;
+}
